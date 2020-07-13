@@ -1,0 +1,17 @@
+.logo {
+  display: block;
+  margin: auto;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+  margin: auto;
+}
+
+.footer div {
+  margin-top: 10px;
+}
